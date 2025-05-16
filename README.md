@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+Book Tracker App (ReactJS + Context + Custom Hooks)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modular React application to manage a list of books using **React Context API** and **Custom Hooks** — with logging functionality built-in.
+
+---
+
+ Features
+
+- ✅ Add and remove books dynamically
+- ✅ Track and log user actions (e.g. "Added book: 1984")
+- ✅ Uses Context API for clean global state management
+- ✅ Uses Custom Hooks for code modularity and reusability
+- ✅ Built with a scalable, component-based architecture
+- ✅ Styled with responsive, modern CSS
+
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- React Context API
+- Custom React Hooks
+- Functional Components + Hooks
+- Plain CSS (no external UI libraries)# Getting Started with Create React App
 
 ## Available Scripts
 
